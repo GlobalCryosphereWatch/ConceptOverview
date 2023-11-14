@@ -1,0 +1,10 @@
+#generated files
+*.aux
+*.log
+
+#editor files:
+*.swp
+tags
+**/*~
+.vscode/
+
